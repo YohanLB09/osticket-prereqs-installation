@@ -43,7 +43,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="https://i.imgur.com/zjyrXqP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--You need to create Resource Group before being able configure a Virtual Machine. Check out this ([guided lab]https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs) if you don't know to create them.
+-You need to create Resource Group before being able configure a Virtual Machine. Check out this [here.](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) if you don't know to create them.
 </p>
 <br />
 
