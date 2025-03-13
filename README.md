@@ -1,5 +1,5 @@
 # <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/Clzj7Xs.png" height="100%" width="100%" alt="Setting Up in Azure"/>
 <br />
 
 <h1>osTicket: Prerequisites and Installation</h1>
@@ -58,7 +58,7 @@ You can find all the necessary installation files used in this project [here.](h
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/zjyrXqP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zjyrXqP.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
 -You need to create Resource Group before being able configure a Virtual Machine. Check out this guided lab if you don't know to create them: https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs.
@@ -66,20 +66,354 @@ You can find all the necessary installation files used in this project [here.](h
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+
+</p>
+<br />
+
 
 <h2>osTicket Installed!</h2>
 
