@@ -62,3 +62,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<h2>osTicket Installed!</h2>
+
+<b>Congratulations! osTicket is now officially installed and ready to use.
+In the next lab, we will dig deeper into the osTicket helpdesk portal and configure various options such as SLAs, Departments, ... to complete.</b>
+<br />
+<br />
+</p>
