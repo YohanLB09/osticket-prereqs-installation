@@ -29,13 +29,31 @@ You can find all the necessary installation files used in this project [here.](h
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>High-LevelSteps</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Step 1: Create a Windows a Resource Group and a Virtual Machine
+- Step 2: Connect to the Windows Virtual Machine
+- Step 3: Download and Extract the osTicket installation file
+- Step 4: Install / Enable IIS with CGI
+- Step 5: Install PHP Manager
+- Step 6: Install the Rewrite Module
+- Step 7: Create a directory
+- Step 8: Unzip and Extract the PHP files
+- Step 9: Install a Microsoft Visual C++ Redistributable
+- Step 10: Install MySQL
+- Step 11: Configure MySQL
+- Step 12: Register PHP in IIS
+- Step 13: Reload IIS
+- Step 14: Install osTicket
+- Step 15: Reload IIS
+- Step 16: Load the osTicket Web Site
+- Step 17: Enable osTicket extensions
+- Step 18: Rename a specific configuration file
+- Step 19: Assign permissions to the configuration file
+- Step 20: Create a HeidiSQL database
+- Step 21: Configure the HeidiSQL database
+- Step 22: Configure basic osTicket settings
+- step 23: Login to osTicket 
 
 <h2>Installation Steps</h2>
 
