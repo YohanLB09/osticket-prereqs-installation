@@ -19,11 +19,11 @@ You can find all the necessary installation files used in this project [here.](h
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
-- <b>Microsoft Azure</b>
-- <b>Virtual Machines</b>
-- <b>Remote Desktop Connection</b>
-- <b>Internet Information Services</b>
-- <b>MySQL</b>
+- Microsoft Azure
+- Virtual Machines
+- Remote Desktop Connection
+- Internet Information Services
+- MySQL
 
 <h2>Operating Systems Used </h2>
 
@@ -57,6 +57,7 @@ You can find all the necessary installation files used in this project [here.](h
 
 <h2>Installation Steps</h2>
 
+<h3>Step 1: Create a Windows a Resource Group and a Virtual Machine</h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -65,11 +66,12 @@ You can find all the necessary installation files used in this project [here.](h
 </p>
 <br />
 
+
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+sdgdsagag
 </p>
 <br />
 
@@ -77,16 +79,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
-</p>
-<br />
-
-
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-
+asdfadsf
 </p>
 <br />
 
@@ -95,7 +88,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdfasdf
 </p>
 <br />
 
@@ -104,7 +97,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdfdassdf
 </p>
 <br />
 
@@ -113,7 +106,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+adsfasdf
 </p>
 <br />
 
@@ -122,7 +115,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+gasdg
 </p>
 <br />
 
@@ -131,7 +124,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgadgs
 </p>
 <br />
 
@@ -140,7 +133,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+adggads
 </p>
 <br />
 
@@ -149,7 +142,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+adsgasdg
 </p>
 <br />
 
@@ -158,7 +151,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdfgasdg
 </p>
 <br />
 
@@ -167,7 +160,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgadgs
 </p>
 <br />
 
@@ -176,7 +169,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgasdg
 </p>
 <br />
 
@@ -185,7 +178,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgadg
 </p>
 <br />
 
@@ -194,7 +187,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgasdg
 </p>
 <br />
 
@@ -203,7 +196,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asgdgas
 </p>
 <br />
 
@@ -212,7 +205,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+adgasdg
 </p>
 <br />
 
@@ -221,7 +214,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgagds
 </p>
 <br />
 
@@ -230,7 +223,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgasdg
 </p>
 <br />
 
@@ -239,7 +232,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdggads
 </p>
 <br />
 
@@ -248,7 +241,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asgasdg
 </p>
 <br />
 
@@ -257,7 +250,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgagsd
 </p>
 <br />
 
@@ -266,7 +259,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgasdg
 </p>
 <br />
 
@@ -275,7 +268,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+agdgad
 </p>
 <br />
 
@@ -284,7 +277,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdggad
 </p>
 <br />
 
@@ -293,7 +286,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgasgd
 </p>
 <br />
 
@@ -302,7 +295,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdggad
 </p>
 <br />
 
@@ -311,7 +304,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asgdagsd
 </p>
 <br />
 
@@ -320,7 +313,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgga
 </p>
 <br />
 
@@ -329,7 +322,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgadgs
 </p>
 <br />
 
@@ -338,7 +331,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgag
 </p>
 <br />
 
@@ -347,7 +340,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgagds
 </p>
 <br />
 
@@ -356,7 +349,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdggad
 </p>
 <br />
 
@@ -365,7 +358,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdggad
 </p>
 <br />
 
@@ -374,7 +367,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asgdadg
 </p>
 <br />
 
@@ -383,7 +376,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdgadgs
 </p>
 <br />
 
@@ -392,7 +385,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+asdggda
 </p>
 <br />
 
@@ -401,7 +394,7 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-
+adgag
 </p>
 <br />
 
@@ -410,7 +403,16 @@ You can find all the necessary installation files used in this project [here.](h
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
+asdgag
+</p>
+<br />
 
+
+<p>
+<img src="" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+aggads
 </p>
 <br />
 
