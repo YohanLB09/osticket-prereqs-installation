@@ -58,7 +58,7 @@ You can find all the necessary installation files used in this project [here.](h
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/zjyrXqP.png" height="100%" width="100%" alt="installation step"/>
+<img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
 -You need to create Resource Group before being able configure a Virtual Machine. Check out this guided lab if you don't know to create them: https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs.
