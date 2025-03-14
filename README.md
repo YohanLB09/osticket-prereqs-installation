@@ -19,8 +19,6 @@ You can find all the necessary installation files used in this project [here.](h
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
 - Internet Information Services (IIS)
-- Microsoft Azure
-- Virtual Machines
 - MySQL
 
 <h2>Operating Systems Used </h2>
