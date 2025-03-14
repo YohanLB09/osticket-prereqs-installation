@@ -17,24 +17,22 @@ You can find all the necessary installation files used in this project [here.](h
 <h2>Environments and Technologies</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection
 - Internet Information Services (IIS)
 - Microsoft Azure
 - Virtual Machines
-- Remote Desktop Connection
-- Internet Information Services
 - MySQL
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro, version 22H2
 
 <h2>High-LevelSteps</h2>
 
 - Step 1: Create a Windows a Resource Group and a Virtual Machine
 - Step 2: Connect to the Windows Virtual Machine
 - Step 3: Download and Extract the osTicket installation file
-- Step 4: Install / Enable IIS with CGI
+- Step 4: Install and Enable IIS with CGI
 - Step 5: Install PHP Manager
 - Step 6: Install the Rewrite Module
 - Step 7: Create a directory
