@@ -43,7 +43,7 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 - Step 17: Enable osTicket extensions
 - Step 18: Rename a specific configuration file
 - Step 19: Assign permissions to the configuration file
-- Step 20: Create a HeidiSQL database
+- Step 20: Install a HeidiSQL database
 - Step 21: Configure the HeidiSQL database
 - Step 22: Configure basic osTicket settings
 - step 23: Login to osTicket 
