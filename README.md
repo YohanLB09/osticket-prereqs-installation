@@ -30,7 +30,7 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 - Step 4: Install and Enable IIS with CGI
 - Step 5: Install PHP Manager
 - Step 6: Install the Rewrite Module
-- Step 7: Create a directory
+- Step 7: Create a directory for PHP files
 - Step 8: Unzip and Extract the PHP files
 - Step 9: Install a Microsoft Visual C++ Redistributable
 - Step 10: Install MySQL
