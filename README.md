@@ -9,9 +9,6 @@
 In this guided lab, we will setup an osTicket system from scratch via a Windows 10 Virtual Machine created in Azure.<br/>
 <br/>
 
-You can find all the necessary installation files used in this project [here.](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
-<br />
-
 
 
 <h2>Environments and Technologies</h2>
@@ -61,7 +58,7 @@ You can find all the necessary installation files used in this project [here.](h
 -You need to create Resource Group before being able configure a Virtual Machine. Check out this guided lab if you don't know to create them: https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs.
 </p>
 <br />
-
+https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
 
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
