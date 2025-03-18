@@ -99,11 +99,15 @@ Now, the installation files are uncompressed and ready to be used normally (open
 <br />
 
 
+
+<h3>Step 4: Install and Enable IIS with CGI</h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdfasdf
+-Navigate to the Control Panel, then click on "Programs" -> "Programs and Feature" -> "Turn Windows features on or off" ->  check the box for "Internet Information Services" and click on the [X] to expand -> expand "World Wide Web Services" -> expand "Application Development Features" -> check the box for "CGI" and click on "OK" to validate the changes.
+
+This setup enables IIS to run dynamic web applications like osTicket, allowing it to process PHP scripts (required by osTicket) and serve the web pages properly. 
 </p>
 <br />
 
@@ -112,7 +116,7 @@ asdfasdf
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdfdassdf
+-You can also ensure that the web server (IIS) has been installed correctly by testing the loopback IP address (127.0.0.1) in Microsoft Edge. You should see a default page appearing.
 </p>
 <br />
 
