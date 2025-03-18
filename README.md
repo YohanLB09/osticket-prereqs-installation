@@ -52,14 +52,18 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 
 <h3>Step 1: Create a Windows a Resource Group and a Virtual Machine</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/gNaBAwe.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
--You need to create Resource Group before being able configure a Virtual Machine. Check out this guided lab if you don't know to create them: https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs.
+-You need to create a Resource Group prior to configuring a Virtual Machine. Check out this guided lab if needed: https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs. 
+
+-If you know how to create both, just remember to use the "Windows 10 Pro version 22H2" image, and at least 2 vCPUs and 8 GiB of memory.
+
+-Also, make sure you remember the credentials to connect to the Windows VM (use Notepad).
 </p>
 <br />
-https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
 
+<h3>Step 2: Connect to the Windows Virtual Machine</h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
