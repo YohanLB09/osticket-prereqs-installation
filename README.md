@@ -271,24 +271,29 @@ This step restarts IIS to ensure that any changes made during the installation a
 
 
 
-<h3></h3>
+<h3>Step 14: Install osTicket</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/pYsAz3b.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgasdg
+-Back to the "osTicket-Installation-Files" folder, extract the “osTicket-v1.15.8” folder in the same location as it is. 
+This will open a new window showcasing uncompressed internal folders; "scripts" and "upload".
 </p>
 <br />
 
 
-
-
-<h3></h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/bvAAO1L.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asgdgas
+-Next, from the new window, copy the “upload” folder into “C:\inetpub\wwwroot”
+
+-Within “C:\inetpub\wwwroot”, Rename “upload” to “osTicket” (make sure you don't make any mistakes here).
+
+-Just like in step 13, Open ISS as the admin, Stop and Start the server again.
+
+This step prepares osTicket for use by extracting its files and placing them in the IIS web server directory (C:\inetpub\wwwroot). Renaming the folder to "osTicket" ensures the system recognizes it as the main application directory. 
+Restarting IIS again applies any final changes, ensuring osTicket runs smoothly after installation.
 </p>
 <br />
 
