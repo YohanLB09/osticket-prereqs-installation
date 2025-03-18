@@ -447,36 +447,46 @@ This step sets up basic information for osTicket. It also connects osTicket to t
 
 
 
-<h3></h3>
+<h3>Step 22: Login to osTicket</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/RWCXeOl.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asgdagsd
+-Open a new tab in Microsoft Edge and browse to your help desk login page: http://localhost/osTicket/scp/login.php.
+
+-Login with your admin credentials. 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/xC948zO.png" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+-If you logged in to your help desk portal successfully, you should notice a single ticket, this simply indicates that osTicket has been installed.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/8ujnQP7.png" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+-Open a new tab and browse to the end user portal to ensure that it can be accessed too: http://localhost/osTicket/.
 </p>
 <br />
 
 
 
 
-<h3></h3>
+<h3>Step 23: Lab cleanup</h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgga
-</p>
-<br />
+-Back in File Explorer, navigate to C:\inetpub\wwwroot\osTicket
 
-
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-asdgadgs
+-Delete the "setup" folder.
 </p>
 <br />
 
@@ -485,18 +495,16 @@ asdgadgs
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgag
+-Navigate to: C:\inetpub\wwwroot\osTicket\include
+
+-Right click on the "ost-config.php" file ->  click on "Properties" -> "Security" -> "Edit" -> under "Allow", check only the box for "Read".
+
+This step enhances security after installing osTicket by deleting the setup folder to prevent reinstallation or unauthorized changes, and setting "Read-only" permissions on ost-config.php to protect critical configuration settings from modification.
 </p>
 <br />
 
 
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-asdgagds
-</p>
-<br />
+
 
 
 <p>
