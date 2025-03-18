@@ -126,6 +126,7 @@ This setup enables IIS to run dynamic web applications like osTicket, allowing i
 
 
 
+<h3>Step 5: Install the PHP Manager</h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -135,6 +136,9 @@ adsfasdf
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -144,6 +148,9 @@ gasdg
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -153,6 +160,9 @@ asdgadgs
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -162,6 +172,9 @@ adggads
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -171,6 +184,9 @@ adsgasdg
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -180,6 +196,9 @@ asdfgasdg
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
