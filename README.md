@@ -351,36 +351,42 @@ This step enables specific PHP extensions needed for osTicket to function proper
 
 
 
-<h3></h3>
+<h3>Step 17: Rename a specific configuration file</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/AVFPxFu.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asgasdg
-</p>
-<br />
+-Go to File explorer and navigate to Windows (C:) -> inetpub -> wwwroot-> osTicket -> include
 
+-From here rename the "ost-sampleconfig.php" file to "ost-config.php".
 
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-asdgagsd
+This step renames a required configuration file so osTicket can recognize and use it for storing important settings, like database connection details.
 </p>
 <br />
 
 
 
 
-<h3></h3>
+<h3>Step 18: Assign permissions to the configuration file</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/QIM4N3b.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgasdg
+-Right click on the "ost-config.php" file and go to "Properties" -> "Security" -> "Advanced" -> "Disable inheritance" -> "Remove all inherited permissions from this object" -> "Add" -> "Select a principal" -> under "Enter the object name to select", type "everyone" ->  "Check Names" -> "OK" -> under basic permissions, check the "Full control" box -> "OK" -> "Apply" -> "OK"
+
+This step ensures osTicket can properly access and modify the ost-config.php file by granting full control to all users, preventing permission-related errors.
+</p>
+<br />
+
+
+
+
+<h3>Install a HeidiSQL database</h3>
+<p>
+<img src="https://i.imgur.com/TWe4jx5.png" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+-Go back to the “osTicket-Installation-Files” folder, click on "HeidiSQL_12.3.0.6589_Setup" and complete the installation process (leave all options as default).
 </p>
 <br />
 
