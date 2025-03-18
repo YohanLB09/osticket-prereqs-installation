@@ -30,7 +30,7 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 - Step 5: Install the PHP Manager
 - Step 6: Install the Rewrite Module
 - Step 7: Create a directory for PHP files
-- Step 8: Unzip PHP files
+- Step 8: Extract PHP files
 - Step 9: Install a Microsoft Visual C++ Redistributable
 - Step 10: Install MySQL
 - Step 11: Configure MySQL
@@ -163,43 +163,55 @@ This enables URL management and ensures osTicket's URLs are clean and functional
 <p>
 -Without closing the "osTicket-Installation-Files" folder window, open a new File Explorer window.
 
--In the new window, navigate to the C: drive and create a new folder called "PHP".
+-From there, navigate to the C: drive and create a new folder called "PHP".
 </p>
 <br />
 
 
 
 
-<h3></h3>
+<h3>Step 8: Extract PHP files</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/crABod2.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-adggads
-</p>
-<br />
+-Back to the window where the "osTicket-Installation-Files" folder is open, right click on "php-7.3.8-nts-Win32-VC15-x86" and select "Extract All".
 
+-When asked to select a destination folder to extract PHP files, browse to Windows (C:) -> "PHP" folder -> "Select Folder" -> "Extract".
 
-
-
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-adsgasdg
+This process uncompresses the PHP files so they can be used for IIS and osTicket configuration, and it organizes them in C:\PHP to make them easily accessible for setup and execution.
 </p>
 <br />
 
 
 
 
-<h3></h3>
+<h3>Step 9: Install a Microsoft Visual C++ Redistributable</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/bQH7sa7.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdfgasdg
+-From within the "osTicket-Installation-Files" folder, click on "VC_redistx86" and complete the installation process.
+
+This step installs the necessary Visual C++ libraries that osTicket needs to run properly, preventing errors related to missing or unavailable essential code (DLL files).
+</p>
+<br />
+
+
+
+
+<h3>Step 10: Install MySQL</h3>
+<p>
+<img src="https://i.imgur.com/dAkh43L.png" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+-Back in the "osTicket-Installation-Files" folder, click on "mysql-5.5.62-win32" and initiate the installation process.
+
+-When asked to choose the setup type during the installation process, select "Typical". 
+
+-Complete the installation process.
+
+This step installs MySQL, a database software required by osTicket to store and manage data like tickets and user information.
 </p>
 <br />
 
