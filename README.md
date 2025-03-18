@@ -324,24 +324,27 @@ This step allows you to launch the osTicket web installer in your browser by usi
 
 
 
-<h3></h3>
+<h3>Step 16: Enable osTicket extensions</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/p9qhSgL.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgasdg
+If the osTicket web site loaded as intended, you will notice that some extension are not enabled. This is normal since we haven't enabled all the osTicket extensions yet.
+
+-To remediate to this, go back to IIS, under "Connections", expand "osticket-vm (...)" -> expand "Sites" -> expand "Default Web Site" -> click on "osTicket" -> "PHP Manager" -> "Enable or disable an extension".
+
+-From the PHP Extensions window, right click and then enable the following PHP extensions: "php_imap.dll", "php_intl.dll", "php_opcache.dll".
 </p>
 <br />
 
 
-
-
-<h3></h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/8qJMHZZ.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdggads
+-Go back to the osTicket web site and refresh it. You should notice that some of the extensions that were disabled previously are now active. The remaining extensions are not required for the installation of osTicket.
+
+This step enables specific PHP extensions needed for osTicket to function properly. These extensions support email fetching, localization, and performance optimization. 
 </p>
 <br />
 
