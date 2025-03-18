@@ -63,6 +63,8 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 </p>
 <br />
 
+
+
 <h3>Step 2: Connect to the Windows Virtual Machine</h3>
 <p>
 <img src="https://i.imgur.com/j05uyJg.png" height="100%" width="100%" alt="installation step"/>
@@ -74,11 +76,25 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 </p>
 <br />
 
+
+
+<h3>Step 3: Download and Extract the osTicket installation folder</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/0ZPAuJv.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdfadsf
+-In your Windows VM, open Microsoft Edge.
+
+-Download the osTicket installation folder from this Google Drive link: 
+https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD.
+
+-Open File Explorer, navigate to "Downloads" and locate the "osTicket-Installation-Files" compressed folder.
+
+-Right-click on the folder and select "Extract All". Ensure the extraction destination is set to "Desktop" and the folder is named "osTicket-Installation-Files". We will use the files in this folder to install osTicket and some of its dependencies.
+
+-Click "Extract".
+
+Now, the installation files are uncompressed and ready to be used normally (open, edit, move).
 </p>
 <br />
 
