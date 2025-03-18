@@ -202,7 +202,7 @@ This step installs the necessary Visual C++ libraries that osTicket needs to run
 
 <h3>Step 10: Install MySQL</h3>
 <p>
-<img src="https://i.imgur.com/dAkh43L.png" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/RZvewKC.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
 -Back in the "osTicket-Installation-Files" folder, click on "mysql-5.5.62-win32" and initiate the installation process.
@@ -218,16 +218,28 @@ This step installs MySQL, a database software required by osTicket to store and 
 
 
 
-<h3></h3>
+<h3>Step 11: Configure MySQL</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/7gjXXIt.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgadgs
+-After the installation process is completed, launch the configuration wizard and choose "Standard Configuration" for the configuration type. 
+
+-Leave the Windows options as default and click "Next".
+
+-When prompt to enter credentials, create a simple password (ex: root) and make sure you remember it. 
+(This is not best practice in terms of security, but for the purpose of this guided lab, we want to keep it as simple as possible to prevent issues during the installation process).
+
+-Complete the configuration process. 
+
+This step sets up MySQL with default settings and a simple password, ensuring osTicket can connect to and use the database.
 </p>
 <br />
 
 
+
+
+<h3>Step 12: Register PHP in IIS</h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -237,6 +249,9 @@ asdgasdg
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -246,6 +261,9 @@ asdgadg
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -255,6 +273,9 @@ asdgasdg
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -264,6 +285,9 @@ asgdgas
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -282,6 +306,9 @@ asdgagds
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -291,6 +318,9 @@ asdgasdg
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -300,6 +330,9 @@ asdggads
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -309,6 +342,9 @@ asgasdg
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -318,6 +354,9 @@ asdgagsd
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -327,6 +366,9 @@ asdgasdg
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -336,6 +378,9 @@ agdgad
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -345,6 +390,9 @@ asdggad
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -354,6 +402,9 @@ asdgasgd
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -363,6 +414,9 @@ asdggad
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -372,6 +426,9 @@ asgdagsd
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -381,6 +438,9 @@ asdgga
 <br />
 
 
+
+
+<h3></h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
