@@ -381,7 +381,7 @@ This step ensures osTicket can properly access and modify the ost-config.php fil
 
 
 
-<h3>Install a HeidiSQL database</h3>
+<h3Step 19: Install a HeidiSQL database</h3>
 <p>
 <img src="https://i.imgur.com/TWe4jx5.png" height="100%" width="100%" alt="installation step"/>
 </p>
@@ -393,31 +393,30 @@ This step ensures osTicket can properly access and modify the ost-config.php fil
 
 
 
-<h3></h3>
+<h3>Step 20: Configure the HeidiSQL database</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/uYRmpfn.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-agdgad
+-Once the installation process is completed and HeidiSQL is launched, click on "New" -> under "Settings", type "root" for the "Password" -> "Open"
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/BTZoxk3.png" height="100%" width="100%" alt="installation step"/>
+</p>
+<p>
+-On the new window, right click on "Unnamed" -> expand "Create New" -> "Database" -> type "osTicket" for the "Name" -> "OK".
+
+This step installs HeidiSQL, a tool for managing MySQL databases, and creates the osTicket database, where all ticket-related information will be stored.
 </p>
 <br />
 
 
 
 
-<h3></h3>
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-asdggad
-</p>
-<br />
-
-
-
-
-<h3></h3>
+<h3>Step 21: Configure basic osTicket settings</h3>
 <p>
 <img src="" height="100%" width="100%" alt="installation step"/>
 </p>
