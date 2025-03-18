@@ -300,21 +300,24 @@ Restarting IIS again applies any final changes, ensuring osTicket runs smoothly 
 
 
 
-<h3></h3>
+<h3>Step 15: Load the osTicket Web Site</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/TA61pqT.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-adgasdg
+-In ISS Manager, under "Connections", expand "osticket-vm (...)" -> expand "Sites" -> expand "Default Web Site" -> click on "osTicket" -> on the right, click on “Browse *:80”
 </p>
 <br />
 
 
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/26woY7s.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgagds
+-You should be redirected to the osTicket installer web page.
+(If you don't see the website appearing as intended, you may have done something wrong along the way. In this case, I recommend reviewing previous steps to ensure that you didn't forget anything).
+
+This step allows you to launch the osTicket web installer in your browser by using IIS Manager. Clicking *“Browse :80” opens the osTicket setup page, where you can configure the helpdesk system.
 </p>
 <br />
 
