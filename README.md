@@ -481,7 +481,7 @@ This step sets up basic information for osTicket. It also connects osTicket to t
 
 <h3>Step 23: Lab cleanup</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/ruluAYE.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
 -Back in File Explorer, navigate to C:\inetpub\wwwroot\osTicket
@@ -492,7 +492,7 @@ This step sets up basic information for osTicket. It also connects osTicket to t
 
 
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/RR6dl9A.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
 -Navigate to: C:\inetpub\wwwroot\osTicket\include
@@ -506,83 +506,10 @@ This step enhances security after installing osTicket by deleting the setup fold
 
 
 
-
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-asdggad
-</p>
-<br />
-
-
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-asdggad
-</p>
-<br />
-
-
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-asgdadg
-</p>
-<br />
-
-
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-asdgadgs
-</p>
-<br />
-
-
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-asdggda
-</p>
-<br />
-
-
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-adgag
-</p>
-<br />
-
-
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-asdgag
-</p>
-<br />
-
-
-<p>
-<img src="" height="100%" width="100%" alt="installation step"/>
-</p>
-<p>
-aggads
-</p>
-<br />
-
-
 <h2>osTicket Installed!</h2>
 
-<b>Congratulations! osTicket is now officially installed and ready to use.
-In the next lab, we will dig deeper into the osTicket helpdesk portal and configure various options such as SLAs, Departments, ... to complete.</b>
+<b>Congratulations on installing osTicket from scratch!
+In the next lab, we will dig deeper into the osTicket admin portal and configure various options such as SLAs, departments, permissions and access, agents, and more.</b>
 <br />
 <br />
 </p>
