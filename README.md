@@ -65,10 +65,12 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 
 <h3>Step 2: Connect to the Windows Virtual Machine</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/j05uyJg.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-sdgdsagag
+-Go to Remote Desktop Connection.
+
+-Connect to the Windows VM with its public IP address, and then insert the credentials to log into the VM.
 </p>
 <br />
 
