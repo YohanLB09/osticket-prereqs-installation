@@ -128,22 +128,28 @@ This setup enables IIS to run dynamic web applications like osTicket, allowing i
 
 <h3>Step 5: Install the PHP Manager</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/oJR0C5s.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-adsfasdf
+-Go back to the Desktop and open the "osTicket-Installation-Files" folder.
+
+-Click on "PHPManagerforIIS_V1.5.0" and complete the installation process.
+
+This ensures that IIS can correctly run PHP scripts, which is necessary for osTicket to function properly on your Windows 10 VM. 
 </p>
 <br />
 
 
 
 
-<h3></h3>
+<h3>Step 6: Install the Rewrite Module</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/Fi40B8n.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-gasdg
+-From within the "osTicket-Installation-Files" folder, click on "rewrite_amd64_en-US" and complete the installation process.
+
+This enables URL management and ensures osTicket's URLs are clean and functional.
 </p>
 <br />
 
