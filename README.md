@@ -418,22 +418,29 @@ This step installs HeidiSQL, a tool for managing MySQL databases, and creates th
 
 <h3>Step 21: Configure basic osTicket settings</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/GQ5pz1D.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgasgd
+-Back on the osTicket website, click on "Continue".
+
+-On the "osTicket Basic Installation" page, Under "System Settings", setup "Helpdesk Name", and "Default Email".
+
+-Under "Admin User",  setup "First Name", "Last Name", "Email Address" (use a different one than for System Settings), "Usersame" and "Password" (create new credentials specifically for the admin user).
+
+-Under "Database Settings", insert "osTicket" for "MySQLDarabase", type "root" for "MySQL Username" and "MySQL Password", and click on "Install Now".
 </p>
 <br />
 
 
-
-
-<h3></h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/Yxaf3JC.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdggad
+-You should be redirected to the osTicket installation Congratulation page. This also includes the URLs for different access to the osTicket environment(end-user, admin, etc).
+
+-Note the URLs in Notepad.
+
+This step sets up basic information for osTicket. It also connects osTicket to the MySQL database to store data and finalizes the installation.
 </p>
 <br />
 
