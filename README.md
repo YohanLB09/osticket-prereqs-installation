@@ -24,29 +24,29 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 
 <h2>High-LevelSteps</h2>
 
-- Step 1: Create a Windows a Resource Group and a Virtual Machine
+- Step 1: Create a Resource Group and a Virtual Machine
 - Step 2: Connect to the Windows Virtual Machine
-- Step 3: Download and Extract the osTicket installation file
+- Step 3: Download and Extract the osTicket installation folder
 - Step 4: Install and Enable IIS with CGI
-- Step 5: Install PHP Manager
+- Step 5: Install the PHP Manager
 - Step 6: Install the Rewrite Module
 - Step 7: Create a directory for PHP files
-- Step 8: Unzip and Extract the PHP files
+- Step 8: Unzip PHP files
 - Step 9: Install a Microsoft Visual C++ Redistributable
 - Step 10: Install MySQL
 - Step 11: Configure MySQL
 - Step 12: Register PHP in IIS
 - Step 13: Reload IIS
 - Step 14: Install osTicket
-- Step 15: Reload IIS
-- Step 16: Load the osTicket Web Site
-- Step 17: Enable osTicket extensions
-- Step 18: Rename a specific configuration file
-- Step 19: Assign permissions to the configuration file
-- Step 20: Install a HeidiSQL database
-- Step 21: Configure the HeidiSQL database
-- Step 22: Configure basic osTicket settings
-- step 23: Login to osTicket 
+- Step 15: Load the osTicket Web Site
+- Step 16: Enable osTicket extensions
+- Step 17: Rename a specific configuration file
+- Step 18: Assign permissions to the configuration file
+- Step 19: Install a HeidiSQL database
+- Step 20: Configure the HeidiSQL database
+- Step 21: Configure basic osTicket settings
+- Step 22: Login to osTicket 
+- Step 23: Lab cleanup 
 
 <h2>Installation Steps</h2>
 
