@@ -4,12 +4,9 @@
 
 <h1>osTicket: Prerequisites and Installation</h1>
 
-
 <h2>Description</h2>
 In this guided lab, we will setup an osTicket system from scratch via a Windows 10 Virtual Machine created in Azure.<br/>
 <br/>
-
-
 
 <h2>Environments and Technologies</h2>
 
@@ -18,11 +15,13 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 - Internet Information Services (IIS)
 - MySQL
 
+
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Pro, version 22H2
 
-<h2>High-LevelSteps</h2>
+
+<h2>High-Level Steps</h2>
 
 - Step 1: Create a Resource Group and a Virtual Machine
 - Step 2: Connect to the Windows Virtual Machine
@@ -48,6 +47,7 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 - Step 22: Login to osTicket 
 - Step 23: Lab cleanup 
 
+
 <h2>Installation Steps</h2>
 
 <h3>Step 1: Create a Windows a Resource Group and a Virtual Machine</h3>
@@ -65,6 +65,7 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 
 
 
+
 <h3>Step 2: Connect to the Windows Virtual Machine</h3>
 <p>
 <img src="https://i.imgur.com/j05uyJg.png" height="100%" width="100%" alt="installation step"/>
@@ -75,6 +76,7 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 -Connect to the Windows VM with its public IP address, and then insert the credentials to log into the VM.
 </p>
 <br />
+
 
 
 
@@ -100,6 +102,7 @@ Now, the installation files are uncompressed and ready to be used normally (open
 
 
 
+
 <h3>Step 4: Install and Enable IIS with CGI</h3>
 <p>
 <img src="https://i.imgur.com/IdQf6vA.png" height="100%" width="100%" alt="installation step"/>
@@ -119,6 +122,8 @@ This setup enables IIS to run dynamic web applications like osTicket, allowing i
 -You can also ensure that the web server (IIS) has been installed correctly by testing the loopback IP address (127.0.0.1) in Microsoft Edge. You should see a default page appearing.
 </p>
 <br />
+
+
 
 
 <p>
