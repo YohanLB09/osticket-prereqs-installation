@@ -156,12 +156,14 @@ This enables URL management and ensures osTicket's URLs are clean and functional
 
 
 
-<h3></h3>
+<h3>Step 7: Create a directory for PHP files</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/7DCdsaD.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgadgs
+-Without closing the "osTicket-Installation-Files" folder window, open a new File Explorer window.
+
+-In the new window, navigate to the C: drive and create a new folder called "PHP".
 </p>
 <br />
 
