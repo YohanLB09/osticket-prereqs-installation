@@ -241,22 +241,30 @@ This step sets up MySQL with default settings and a simple password, ensuring os
 
 <h3>Step 12: Register PHP in IIS</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/yuZXLua.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgasdg
+-From the Windows Desktop search bar, type IIS and open IIS Manager as an Admin.
+
+-In IIS Manager, click on "PHP Manager"-> "Register new PHP version" ->  click on "..." to browse in File Explore ->  "Windows (C:)" -> "PHP" folder ->  "php-cpi" ->  "OK"
+
+This step connects PHP (the language osTicket runs on) to IIS (the web server) so that IIS can process and run PHP code correctly for osTicket.
 </p>
 <br />
 
 
 
 
-<h3></h3>
+<h3>Step 13: Reload IIS</h3>
 <p>
-<img src="" height="100%" width="100%" alt="installation step"/>
+<img src="https://i.imgur.com/lxx2rpK.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
-asdgadg
+-Back in IIS manager, under "Connections", right-click on "osTicket-VM", and then click on "Stop". 
+
+-Wait for it to stop, and then click on "Start".
+
+This step restarts IIS to ensure that any changes made during the installation are properly applied to osTicket.
 </p>
 <br />
 
