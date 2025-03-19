@@ -86,7 +86,7 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 <p>
 -In your Windows VM, open Microsoft Edge.
 
--Download the osTicket installation folder from this Google Drive link: 
+-Download the osTicket installation folder by pasting this Google Drive link in the navigation pane: 
 https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD.
 
 -Open File Explorer, navigate to "Downloads" and locate the "osTicket-Installation-Files" compressed folder.
