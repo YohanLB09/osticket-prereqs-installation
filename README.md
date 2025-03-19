@@ -435,7 +435,7 @@ This step installs HeidiSQL, a tool for managing MySQL databases, and creates th
 <img src="https://i.imgur.com/Yxaf3JC.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
--You should be redirected to the osTicket installation Congratulation page. This also includes the URLs for different access to the osTicket environment(end-user, admin, etc).
+-You should be redirected to the osTicket installation Congratulation page. This also includes the URLs for different access to the osTicket environment (end-user, admin, etc).
 
 -Note the URLs in Notepad.
 
@@ -451,7 +451,7 @@ This step sets up basic information for osTicket. It also connects osTicket to t
 <img src="https://i.imgur.com/RWCXeOl.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
--Open a new tab in Microsoft Edge and browse to your help desk login page: http://localhost/osTicket/scp/login.php.
+-Open a new tab in Microsoft Edge and browse to your admin login page: http://localhost/osTicket/scp/login.php.
 
 -Login with your admin credentials. 
 </p>
