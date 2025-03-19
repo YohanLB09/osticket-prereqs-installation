@@ -49,7 +49,7 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 
 <h2>Installation Steps</h2>
 
-<h3>Step 1: Create a Windows a Resource Group and a Virtual Machine</h3>
+<h3>Step 1: Create a Resource Group and a Virtual Machine</h3>
 <p>
 <img src="https://i.imgur.com/gNaBAwe.png" height="100%" width="100%" alt="installation step"/>
 </p>
