@@ -435,7 +435,7 @@ This step installs HeidiSQL, a tool for managing MySQL databases, and creates th
 <img src="https://i.imgur.com/Yxaf3JC.png" height="100%" width="100%" alt="installation step"/>
 </p>
 <p>
--You should be redirected to the osTicket installation Congratulation page. This also includes the URLs for different access to the osTicket environment (end-user, admin, etc).
+-You should be redirected to the osTicket installation Congratulation page. This also includes the URLs for different access to the osTicket environments (end-user, admin, etc).
 
 -Note the URLs in Notepad.
 
