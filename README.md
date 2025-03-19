@@ -13,7 +13,6 @@ In this guided lab, we will setup an osTicket system from scratch via a Windows 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
 - Internet Information Services (IIS)
-- MySQL
 
 
 <h2>Operating Systems Used </h2>
