@@ -508,7 +508,8 @@ This step enhances security after installing osTicket by deleting the setup fold
 <h2>osTicket Installed!</h2>
 
 <b>Congratulations on installing osTicket from scratch!
-In the next lab, we will dig deeper into the osTicket admin portal and configure various options such as SLAs, departments, permissions and access, agents, and more.</b>
+In the next lab, we will dig deeper into the osTicket admin portal and configure various options such as SLAs, departments, permissions and access, agents, and more.
+Next lab: https://github.com/YohanLB09/osticket-post-install-config/tree/main</b>
 <br />
 <br />
 </p>
